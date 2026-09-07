@@ -1,0 +1,89 @@
+{
+ "batch": "2026-W37",
+ "items": [
+  {
+   "id": "w37-01",
+   "pillar": "P1 Idő",
+   "kb": [
+    "HUN03 #14",
+    "HUN03 #15",
+    "EBOOK ido_tozsde: minden lezáratlan dolog egy ellopott pillanat"
+   ],
+   "feed_image": "w37-01_feed.jpg",
+   "story_image": "w37-01_story.jpg",
+   "caption_fb": "„Nincs időm.” Ezt mondja szinte minden cégvezető, akivel találkozunk.\n\nPedig ugyanannyi órája van, mint bárki másnak. Ami más: hány elkezdett, de le nem zárt ügy fut nála egyszerre. Mindegyik figyelmet kér — akkor is, amikor épp nem foglalkozik vele.\n\nEzért az időt nem beosztani kell. Lezárni.\n\nMa este írd le a három legrégebbi nyitott ügyedet. Holnap az egyiket zárd le — vagy add tovább, vagy dobd ki. És figyeld meg, mennyi idő lett hirtelen.",
+   "caption_ig": "„Nincs időm” — ezt mondja szinte minden cégvezető. Pedig ugyanannyi órája van, mint bárki másnak. Ami nála más: hány elkezdett, de le nem zárt ügy fut egyszerre, és mindegyik figyelmet kér. Ezért az időt nem beosztani kell, hanem lezárni.\n\nMa este írd le a három legrégebbi nyitott ügyedet. Holnap az egyiket zárd le.\n\n#hatékonyság #cégvezető #vállalkozó #időgazdálkodás #vezetés #kkv #bwell",
+   "schedule": {
+    "feed": "2026-09-09T08:00:00+02:00",
+    "story": "2026-09-09T12:30:00+02:00"
+   },
+   "alt": "Nem kevés az időd. Sok a lezáratlan ügyed."
+  },
+  {
+   "id": "w37-02",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "HUN03 #95",
+    "VALL03: áramlási vonalak — a mindent látni akaró vezető",
+    "web: 'nem azért fáradt, mert sokat dolgozik'"
+   ],
+   "feed_image": "w37-02_feed.jpg",
+   "story_image": "w37-02_story.jpg",
+   "caption_fb": "Miért te dolgozol a legtöbbet a saját cégedben?\n\nNem azért, mert lusták a többiek. Hanem mert valahányszor te csinálod meg, ami az ő dolguk lenne, egy kicsit leszoktatod őket róla. Legközelebb már meg sem próbálják — minek, úgyis te.\n\nÍgy kerül minden feladat a te asztalodra. Nem szorgalom ez. Kihagyás.\n\nA vezető munkája nem a rakomány, hanem a csatorna: eldönteni, mi kihez megy — és ott is hagyni.",
+   "caption_ig": "Miért te dolgozol a legtöbbet a saját cégedben? Nem azért, mert lusták a többiek. Hanem mert amit megcsinálsz helyettük, azt legközelebb már meg sem próbálják. Így kerül minden feladat a te asztalodra.\n\nA vezető munkája nem a rakomány, hanem a csatorna: eldönteni, mi kihez megy — és ott is hagyni.\n\n#cégvezető #delegálás #vezetés #hatékonyság #vállalkozás #kkv #bwell",
+   "schedule": {
+    "feed": "2026-09-11T08:00:00+02:00",
+    "story": "2026-09-11T12:30:00+02:00"
+   },
+   "alt": "Aki mindent maga csinál, az átugorja a saját embereit. Ők leszoknak a felelősségről — és minden munka nála köt ki. Minél többet ugrik át, annál többet dolgozik."
+  },
+  {
+   "id": "w37-03",
+   "pillar": "P4 Vezetői szokások",
+   "kb": [
+    "HUN03 #80",
+    "HUN02: végezd el most",
+    "VALL04: amit megfogtál, kezeld"
+   ],
+   "feed_image": "w37-03_feed.jpg",
+   "story_image": "w37-03_story.jpg",
+   "caption_fb": "A munka felezésének legegyszerűbb módja: nem csinálod meg kétszer.\n\nMinden e-mail, papír, kérés, amit elolvasol és visszateszel „majd”-ra, kétszer kerül a kezedbe. Egyszer most, egyszer amikor tényleg elintézed. A második kézbevétel a tiszta pazarlás.\n\nHárom út van, és mind a három egy mozdulat:\n1. Elintézed most.\n2. Továbbadod most — névre, egy mondattal.\n3. Felírod, mikor — és kiteszed a látóteredből.\n\nA negyedik — visszatenni a kupacba — nem opció.",
+   "caption_ig": "A munka felezésének legegyszerűbb módja, hogy nem csinálod meg kétszer. Amit egyszer a kezedbe vettél, azzal három dolgot tehetsz: elintézed most, továbbadod most, vagy felírod, mikor — és kiteszed a látóteredből.\n\nVisszatenni a kupacba nem opció, mert akkor másodszor is meg kell majd fognod.\n\n#hatékonyság #cégvezető #időgazdálkodás #rend #vezetés #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-09-13T08:00:00+02:00",
+    "story": "2026-09-13T12:30:00+02:00"
+   },
+   "alt": "Amit egyszer a kezedbe vettél, intézd el."
+  },
+  {
+   "id": "w37-t1",
+   "tiktok": true,
+   "from": "w37-01",
+   "images": [
+    "w37-t1_1.jpg",
+    "w37-t1_2.jpg",
+    "w37-t1_3.jpg",
+    "w37-t1_4.jpg",
+    "w37-t1_5.jpg"
+   ],
+   "caption": "Nincs időd? Nem az idő kevés, hanem sok a lezáratlan ügyed. Lapozz végig, és ma este próbáld ki a végén lévő feladatot.\n\n#cégvezető #hatékonyság #időgazdálkodás #vállalkozó #vezetés",
+   "schedule": "2026-09-10T18:00:00+02:00",
+   "alt": "Nincs időd? Nem az idő kevés."
+  },
+  {
+   "id": "w37-t2",
+   "tiktok": true,
+   "from": "w37-02",
+   "images": [
+    "w37-t2_1.jpg",
+    "w37-t2_2.jpg",
+    "w37-t2_3.jpg",
+    "w37-t2_4.jpg",
+    "w37-t2_5.jpg"
+   ],
+   "caption": "Miért te dolgozol a legtöbbet a saját cégedben? Öt lapban a válasz — és hogy mi a vezető valódi munkája.\n\n#cégvezető #delegálás #vezetés #hatékonyság #kkv",
+   "schedule": "2026-09-14T18:00:00+02:00",
+   "alt": "Miért te dolgozol a legtöbbet a saját cégedben?"
+  }
+ ]
+}
