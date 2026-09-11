@@ -1,0 +1,99 @@
+{
+ "batch": "2026-W38",
+ "items": [
+  {
+   "id": "w38-01",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "HUN01 #11: a túl sok befejezetlen ciklus tünetei (nyaralás-vágy, kimerültség)",
+    "HUN01 #10: befejezni = az utolsó szakaszt is elvégezni",
+    "web: Arba-Fémtech vélemény — a lezárás nyereség, a nyitott feladat kimerít"
+   ],
+   "feed_image": "w38-01_feed.jpg",
+   "story_image": "w38-01_story.jpg",
+   "caption_fb": "„Kellene már egy hét szabadság.” Ha ez a mondat gyakran eszedbe jut, nézd meg, mi van mögötte.\n\nA legtöbb vezető nem a munka mennyiségétől fárad el. Attól, hogy túl sok dolog van félig kész: az ajánlat, amit még át kell nézni, a beszélgetés, amit el kellene kezdeni, a rendelés, ami „majd”. Ezek a nyitott ügyek akkor is figyelmet kérnek, amikor épp nem nyúlsz hozzájuk. A nyaraláson is.\n\nEzért a pihenés önmagában nem old meg semmit: két hét múlva ugyanoda érkezel vissza, ugyanazokkal a nyitott ügyekkel.\n\nEgy próba: írd össze, mi az a tíz dolog, ami hetek óta félig kész. Aztán fejezz be egyet — teljesen, az utolsó lépésig. Figyeld meg, mennyivel könnyebb lett a fejed.",
+   "caption_ig": "„Kellene már egy hét szabadság.” A legtöbb vezető nem a munka mennyiségétől fárad el, hanem attól, hogy túl sok dolog van félig kész. A nyitott ügyek akkor is figyelmet kérnek, amikor nem nyúlsz hozzájuk — a nyaraláson is.\n\nEgy próba: írd össze, mi az a tíz dolog, ami hetek óta félig kész, és fejezz be egyet az utolsó lépésig.\n\n#cégvezető #hatékonyság #időgazdálkodás #vezetés #vállalkozó #kkv #rend #bwell",
+   "schedule": {
+    "feed": "2026-09-15T08:00:00+02:00",
+    "story": "2026-09-15T12:30:00+02:00"
+   },
+   "alt": "Nyaralás kell — vagy lezárás?"
+  },
+  {
+   "id": "w38-02",
+   "pillar": "P5 Történetek (saját e-bookok)",
+   "kb": [
+    "EBOOK ido_tozsde #2: a hajó — 11 év, 3 hét rajta, 1 hét a családdal",
+    "EBOOK ido_tozsde #3: az idő illúziója — a növekedés több időt kér, nem kevesebbet",
+    "EBOOK ido_tozsde #31: a „majd egyszer, ha lesz idő” álma"
+   ],
+   "feed_image": "w38-02_feed1.jpg",
+   "feed_images": [
+    "w38-02_feed1.jpg",
+    "w38-02_feed2.jpg",
+    "w38-02_feed3.jpg",
+    "w38-02_feed4.jpg"
+   ],
+   "story_image": "w38-02_story.jpg",
+   "caption_fb": "Ez a történet az egyik alapítónk saját e-bookjából való.\n\nHarmincévesen hajót vett — örökség nélkül, saját erőből. Tizenegy évig volt az övé, és összesen három hetet töltött rajta. Ebből egyet a családjával.\n\nNem azért, mert nem akart menni. Hanem mert minden vállalkozásában rá volt szükség. Nem ismert nála elfoglaltabb embert, és ezt sokáig sikernek hitte.\n\nA tanulság nem az, hogy ne vegyél hajót. Hanem az, hogy a siker önmagában nem hoz időt — csak több dolgot, ami rád vár. Az időt külön kell megcsinálni: lezárni, ami nyitva van, és leadni, ami nem a tiéd.\n\nMi a te hajód? Az a dolog, amiért dolgozol, és amire épp ezért nincs időd.",
+   "caption_ig": "Harmincévesen hajót vett, saját erőből. Tizenegy évig volt az övé, és összesen három hetet töltött rajta — ebből egyet a családjával. Nem azért, mert nem akart menni, hanem mert minden vállalkozásában rá volt szükség.\n\nA siker önmagában nem hoz időt, csak több dolgot, ami rád vár. Mi a te hajód? Ez a történet az egyik alapítónk saját e-bookjából való.\n\n#cégvezető #vállalkozó #időgazdálkodás #hatékonyság #vezetés #kkv #történet #bwell",
+   "schedule": {
+    "feed": "2026-09-17T08:00:00+02:00",
+    "story": "2026-09-17T12:30:00+02:00"
+   },
+   "alt": "Harmincévesen hajót vett.",
+   "alts": [
+    "Harmincévesen hajót vett.",
+    "Tizenegy évig volt az övé. Három hetet töltött rajta.",
+    "Nem azért, mert nem akart menni.",
+    "A siker nem hozott időt. Elvette."
+   ]
+  },
+  {
+   "id": "w38-03",
+   "pillar": "P6 Ügyfélhangok",
+   "kb": [
+    "web: ügyfélvélemény F.J., Arba-Fémtech Kft (bwell.hu kezdőoldal, szó szerint)"
+   ],
+   "feed_image": "w38-03_feed.jpg",
+   "story_image": "w38-03_story.jpg",
+   "caption_fb": "Ezt egy ügyfelünk írta a tréning után. Két dolog van benne, amit a legtöbb vezető csak utólag lát.\n\nAz egyik, hogy a félbehagyott feladatok nem semlegesek: figyelmet vonnak el, és ez fáraszt — akkor is, ha egész nap nem nyúlsz hozzájuk.\n\nA másik, hogy a lezárás nem veszteség. Nem „elvesztegetett idő” a régi ügyekre. Nyereség: visszakapod a figyelmedet, és vele az energiádat.\n\nHa ma csak egy dolgot csinálsz: zárj le valamit, ami hetek óta húz. Az utolsó lépésig.",
+   "caption_ig": "Ezt egy ügyfelünk írta a tréning után. A félbehagyott feladatok nem semlegesek: figyelmet vonnak el, és ez fáraszt, akkor is, ha egész nap nem nyúlsz hozzájuk. A lezárás pedig nem elvesztegetett idő, hanem nyereség, mert visszakapod a figyelmedet.\n\nHa ma csak egy dolgot csinálsz: zárj le valamit, ami hetek óta húz.\n\n#ügyfélvélemény #cégvezető #hatékonyság #lezárás #vezetés #kkv #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-09-19T08:00:00+02:00",
+    "story": "2026-09-19T12:30:00+02:00"
+   },
+   "alt": "A figyelmet elvonó feladatok lezárása nyereség volt, mert ezek kimerültséget okoztak."
+  },
+  {
+   "id": "w38-t1",
+   "tiktok": true,
+   "from": "w38-01",
+   "images": [
+    "w38-t1_1.jpg",
+    "w38-t1_2.jpg",
+    "w38-t1_3.jpg",
+    "w38-t1_4.jpg",
+    "w38-t1_5.jpg"
+   ],
+   "caption": "Nyaralás kell, vagy lezárás? A kimerültség ritkán a sok munkától van, inkább attól, hogy sok minden félig kész. Lapozz végig, a végén egy egyszerű feladat vár.\n\n#cégvezető #hatékonyság #vezetés #vállalkozó #kkv",
+   "schedule": "2026-09-16T18:00:00+02:00",
+   "alt": "Nyaralás kell — vagy lezárás?"
+  },
+  {
+   "id": "w38-t2",
+   "tiktok": true,
+   "from": "w38-02",
+   "images": [
+    "w38-t2_1.jpg",
+    "w38-t2_2.jpg",
+    "w38-t2_3.jpg",
+    "w38-t2_4.jpg",
+    "w38-t2_5.jpg"
+   ],
+   "caption": "Egy vállalkozó hajót vett, és tizenegy év alatt három hetet töltött rajta. Ez a történet az egyik alapítónk saját e-bookjából való. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #vállalkozó #időgazdálkodás #hatékonyság #kkv",
+   "schedule": "2026-09-20T18:00:00+02:00",
+   "alt": "Harmincévesen hajót vett."
+  }
+ ]
+}
