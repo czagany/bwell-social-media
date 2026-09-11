@@ -17,7 +17,13 @@
     "feed": "2026-09-15T08:00:00+02:00",
     "story": "2026-09-15T12:30:00+02:00"
    },
-   "alt": "Nyaralás kell — vagy lezárás?"
+   "alt": "Nyaralás kell — vagy lezárás?",
+   "buffer_ids": {
+    "fb_feed": "6aa4674acb62fc78b502bdfd",
+    "fb_story": "6aa4672fb68936ea7a44f9c3",
+    "ig_feed": "6aa467307145e39ccec68c7a",
+    "ig_story": "6aa467310ebef6a55a408207"
+   }
   },
   {
    "id": "w38-02",
@@ -47,7 +53,13 @@
     "Tizenegy évig volt az övé. Három hetet töltött rajta.",
     "Nem azért, mert nem akart menni.",
     "A siker nem hozott időt. Elvette."
-   ]
+   ],
+   "buffer_ids": {
+    "fb_feed": "6aa467477145e39ccec694a1",
+    "fb_story": "6aa4674c7145e39ccec69547",
+    "ig_feed": "6aa467540ebef6a55a408472",
+    "ig_story": "6aa46759cb62fc78b502bebd"
+   }
   },
   {
    "id": "w38-03",
@@ -63,7 +75,13 @@
     "feed": "2026-09-19T08:00:00+02:00",
     "story": "2026-09-19T12:30:00+02:00"
    },
-   "alt": "A figyelmet elvonó feladatok lezárása nyereség volt, mert ezek kimerültséget okoztak."
+   "alt": "A figyelmet elvonó feladatok lezárása nyereség volt, mert ezek kimerültséget okoztak.",
+   "buffer_ids": {
+    "fb_feed": "6aa467660ebef6a55a408558",
+    "fb_story": "6aa4676ccb62fc78b502c000",
+    "ig_feed": "6aa493f307d009223c661613",
+    "ig_story": "6aa493f62ff05a49069a5dcf"
+   }
   },
   {
    "id": "w38-t1",
@@ -78,7 +96,10 @@
    ],
    "caption": "Nyaralás kell, vagy lezárás? A kimerültség ritkán a sok munkától van, inkább attól, hogy sok minden félig kész. Lapozz végig, a végén egy egyszerű feladat vár.\n\n#cégvezető #hatékonyság #vezetés #vállalkozó #kkv",
    "schedule": "2026-09-16T18:00:00+02:00",
-   "alt": "Nyaralás kell — vagy lezárás?"
+   "alt": "Nyaralás kell — vagy lezárás?",
+   "buffer_ids": {
+    "tiktok": "6aa4940207d009223c6616f2"
+   }
   },
   {
    "id": "w38-t2",
@@ -93,7 +114,12 @@
    ],
    "caption": "Egy vállalkozó hajót vett, és tizenegy év alatt három hetet töltött rajta. Ez a történet az egyik alapítónk saját e-bookjából való. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #vállalkozó #időgazdálkodás #hatékonyság #kkv",
    "schedule": "2026-09-20T18:00:00+02:00",
-   "alt": "Harmincévesen hajót vett."
+   "alt": "Harmincévesen hajót vett.",
+   "buffer_ids": {
+    "tiktok": "6aa494092ff05a49069a5ed8"
+   }
   }
- ]
+ ],
+ "image_base": "https://raw.githubusercontent.com/czagany/bwell-social-media/main/2026-W38/",
+ "scheduled_at": "2026-09-11T23:52:09Z"
 }
