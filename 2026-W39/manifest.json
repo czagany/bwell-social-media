@@ -1,0 +1,88 @@
+{
+ "batch": "2026-W39",
+ "items": [
+  {
+   "id": "w39-01",
+   "pillar": "P1 Idő",
+   "kb": [
+    "EBOOK ido_tozsde #17: nincs idő megvárni, hogy legyen több idő — az időhiány önmagát tartja fenn",
+    "HUN03 #33: a halasztás nem körülmény, hanem maga a tünet",
+    "web: 'nem azért fáradt, mert sokat dolgozik' (háttér)"
+   ],
+   "feed_image": "w39-01_feed.jpg",
+   "story_image": "w39-01_story.jpg",
+   "caption_fb": "„Majd ha lesz egy nyugodtabb hetem, rendet teszek.” Hányszor mondtad ezt idén?\n\nA nyugodtabb hét nem jön magától. Amíg a cégben minden úgy fut, ahogy most, addig a jövő hét is olyan lesz, mint ez a hét. Ugyanannyi kérés, ugyanannyi félbehagyott ügy, ugyanannyi tűzoltás.\n\nEz a csapda: a rendrakásra azért nincs idő, mert nincs rend. A megoldást pont arra az időre halasztod, ami épp azért hiányzik, mert nincs megoldás.\n\nEbből egyetlen kiút van: nem várni. Nem egy egész hetet szánni rá, hanem ma egy órát. Egy ügy, amit lezársz. Egy kupac, amit szétválogatsz. Az az egy óra nem elveszett idő — az az első, amit visszaveszel.",
+   "caption_ig": "„Majd ha lesz egy nyugodtabb hetem, rendet teszek.” A nyugodtabb hét nem jön magától: amíg minden úgy fut, ahogy most, a jövő hét is olyan lesz, mint ez. A rendrakásra azért nincs idő, mert nincs rend, és a megoldást pont arra az időre halasztod, ami emiatt hiányzik.\n\nNe várj egy egész hétre. Ma egy óra: egy ügy, amit lezársz, vagy egy kupac, amit szétválogatsz.\n\n#cégvezető #időgazdálkodás #hatékonyság #vezetés #vállalkozó #kkv #rend #bwell",
+   "schedule": {
+    "feed": "2026-09-22T08:00:00+02:00",
+    "story": "2026-09-22T12:30:00+02:00"
+   },
+   "alt": "Nyugodtabb hét nem jön magától. Ha a rendrakást is arra az időre halasztod, ami nincs, az időhiány önmagát tartja fenn. Nincs időd várni arra, hogy legyen időd."
+  },
+  {
+   "id": "w39-02",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "HUN03 #73: három ügytípus — régi (hátralék), futó, új; előbb szétválogatni, aztán elintézni",
+    "HUN03 #78: az egy helyre gyűjtött hátralék már önmagában megkönnyebbülés",
+    "HUN03 #77: a hátralék rejtett, miközben látszólag mindenki őrülten dolgozik"
+   ],
+   "feed_image": "w39-02_feed.jpg",
+   "story_image": "w39-02_story.jpg",
+   "caption_fb": "Ha rendet akarsz tenni a cégedben, ne az elintézéssel kezdd. A szétválogatással.\n\nAz asztalodon, a levelezésedben és a fejedben háromféle ügy keveredik. A régi: ami hetek óta ott van, és senki nem nyúl hozzá. A futó: amin most dolgozol, és tényleg halad. Az új: ami ma jött be, és még nem néztél rá rendesen.\n\nAmíg ez a három egy kupacban van, minden nap ugyanazt csinálod: a felső réteget kapargatod, és a régi alatta marad. Hónapokig.\n\nVálogasd szét őket három helyre. Még ne intézz el semmit, csak nézd meg, mi hova tartozik. Már ettől könnyebb lesz — mert végre látod, mid van. Az elintézés utána jön, és sokkal gyorsabban megy.",
+   "caption_ig": "Ha rendet akarsz tenni, ne az elintézéssel kezdd, hanem a szétválogatással. Az asztalodon és a levelezésedben háromféle ügy keveredik: a régi, ami hetek óta ott van, a futó, amin most dolgozol, és az új, ami ma jött be. Amíg ez a három egy kupacban van, csak a felső réteget kapargatod, a régi pedig alatta marad.\n\nVálogasd szét őket három helyre, még mielőtt bármit elintéznél. Már attól könnyebb lesz, hogy végre látod, mid van.\n\n#cégvezető #rend #hatékonyság #időgazdálkodás #vezetés #vállalkozó #kkv #bwell",
+   "schedule": {
+    "feed": "2026-09-24T08:00:00+02:00",
+    "story": "2026-09-24T12:30:00+02:00"
+   },
+   "alt": "Mielőtt bármit elintéznél, válogasd szét."
+  },
+  {
+   "id": "w39-03",
+   "pillar": "P7 CTA",
+   "kb": [
+    "web /teszt: ingyenes, egyperces, az eredmény e-mailben jön, a döntés az olvasóé",
+    "HUN03 #112: önteszt — tünetlista, amiből egy igen is elég"
+   ],
+   "feed_image": "w39-03_feed.jpg",
+   "story_image": "w39-03_story.jpg",
+   "caption_fb": "Az elmúlt hetekben arról írtunk, hogy a fáradtság ritkán a sok munkától van, hanem a félkész dolgoktól — és hogy szétválogatás nélkül nem lehet rendet tenni.\n\nHa közben felmerült benned, hogy nálad pontosan hol megy el az idő, erre van egy egyszerű eszköz: egy egyperces teszt. Ingyenes, az eredményt e-mailben kapod, és te döntöd el, mit kezdesz vele.\n\nKitöltöm a tesztet: https://bwell.hu/teszt",
+   "caption_ig": "Az elmúlt hetekben arról írtunk, hogy a fáradtság ritkán a sok munkától van, hanem a félkész dolgoktól. Ha közben felmerült benned, hogy nálad pontosan hol megy el az idő, erre van egy egyperces, ingyenes teszt. Az eredményt e-mailben kapod, és te döntöd el, mit kezdesz vele.\n\nA teszt itt van: bwell.hu/teszt\n\n#hatékonyságteszt #cégvezető #időgazdálkodás #hatékonyság #vezetés #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-09-26T08:00:00+02:00",
+    "story": "2026-09-26T12:30:00+02:00"
+   },
+   "alt": "Hol tűnik el az időd? Egy perc alatt kiderül."
+  },
+  {
+   "id": "w39-t1",
+   "tiktok": true,
+   "from": "w39-01",
+   "images": [
+    "w39-t1_1.jpg",
+    "w39-t1_2.jpg",
+    "w39-t1_3.jpg",
+    "w39-t1_4.jpg",
+    "w39-t1_5.jpg"
+   ],
+   "caption": "Majd ha lesz egy nyugodtabb hetem, rendet teszek. Ismerős mondat, csak az a baj vele, hogy a nyugodtabb hét nem jön magától. Lapozz végig, a végén egy órányi feladat vár.\n\n#cégvezető #időgazdálkodás #hatékonyság #vezetés #vállalkozó",
+   "schedule": "2026-09-23T18:00:00+02:00",
+   "alt": "Majd ha lesz egy nyugodtabb hetem, rendet teszek."
+  },
+  {
+   "id": "w39-t2",
+   "tiktok": true,
+   "from": "w39-02",
+   "images": [
+    "w39-t2_1.jpg",
+    "w39-t2_2.jpg",
+    "w39-t2_3.jpg",
+    "w39-t2_4.jpg",
+    "w39-t2_5.jpg"
+   ],
+   "caption": "Rendet akarsz tenni a cégedben? Ne az elintézéssel kezdd, hanem a szétválogatással. Lapozz végig: három kupac, és végre látod, mid van.\n\n#cégvezető #rend #hatékonyság #vezetés #kkv",
+   "schedule": "2026-09-27T18:00:00+02:00",
+   "alt": "Rendet akarsz tenni? Ne az elintézéssel kezdd."
+  }
+ ]
+}
