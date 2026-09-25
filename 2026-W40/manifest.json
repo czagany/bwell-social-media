@@ -1,0 +1,100 @@
+{
+ "batch": "2026-W40",
+ "items": [
+  {
+   "id": "w40-01",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #38: mindenben nekem kell döntenem — a döntési forgalom a növekedés felső korlátja",
+    "EBOOK hatekony_cegvezeto #40: három opció kérdéskor — leírtam? kihagytam egy lépést? egyedi?",
+    "EBOOK hatekony_cegvezeto #41: bevonás a döntésbe — te mit tennél?",
+    "HUN03 #94: ne oldd meg a munkatárs problémáját helyette (háttér)"
+   ],
+   "feed_image": "w40-01_feed.jpg",
+   "story_image": "w40-01_story.jpg",
+   "caption_fb": "„Ezzel mi legyen?” Ha ezt a kérdést naponta tízszer hallod, számold meg, hány döntést hozol mások helyett.\n\nAz elején ez természetes: te tudod, hogyan kell, ők még tanulják. Csak van egy pont, ahol ez már nem segítség, hanem a cég növekedésének felső korlátja. Ha minden a te fejeden megy át, a cég pont akkora lesz, amekkorát egy fej elbír.\n\nA gyors válasz kényelmes, mert két másodperc alatt kész. Csak épp nem tanít semmit: holnap ugyanaz a kérdés jön vissza, ugyanattól az embertől.\n\nHárom dolog segít. Ami visszatérő, azt írd le egyszer, és legközelebb arra mutass. Ha kiderül, hogy a leírásból hiányzik egy lépés, pótold, ne csak szóban mondd el. Ha pedig tényleg egyedi a helyzet, kérdezz vissza: te mit tennél? Ha jót mond, csinálja úgy. Ha nem, mondd el, mi lenne jobb és miért. Ettől lesz legközelebb egy döntéssel kevesebb nálad.",
+   "caption_ig": "„Ezzel mi legyen?” Ha ezt naponta tízszer hallod, számold meg, hány döntést hozol mások helyett. A gyors válasz kényelmes, csak nem tanít semmit: holnap ugyanaz a kérdés jön vissza, ugyanattól az embertől.\n\nAmi visszatérő, azt írd le egyszer, és legközelebb arra mutass. Ami egyedi, ott kérdezz vissza: te mit tennél?\n\n#cégvezető #delegálás #vezetés #hatékonyság #vállalkozó #kkv #csapat #bwell",
+   "schedule": {
+    "feed": "2026-09-29T08:00:00+02:00",
+    "story": "2026-09-29T12:30:00+02:00"
+   },
+   "alt": "Hány döntést hoztál ma mások helyett?"
+  },
+  {
+   "id": "w40-02",
+   "pillar": "P4 Vezetői szokások",
+   "kb": [
+    "HUN03 #91: hosszú telefonhívás jegyzet nélkül — a cég emlékezetének legnagyobb rése a vezető, aki nem ír fel semmit"
+   ],
+   "feed_image": "w40-02_feed.jpg",
+   "story_image": "w40-02_story.jpg",
+   "caption_fb": "Fél órát telefonálsz egy ügyféllel. Megegyeztek a határidőben, az árban, abban, hogy ki mit küld. Leteszed, és jön a következő.\n\nKét hét múlva a kolléga kérdezi, mi is volt a megállapodás. Te emlékszel rá — nagyjából. Az ügyfél is emlékszik — kicsit máshogy.\n\nA legtöbb cégben a legnagyobb lyuk az emlékezeten maga a vezető: ő beszél a legtöbbet, és ő jegyzetel a legkevesebbet. Ami nem került le írásban, az a cég számára nem történt meg. Csak a te fejedet terheli, és onnan is kikopik.\n\nEgy egyszerű szokás: minden hosszabb hívás után három sor. Kivel beszéltél, miben egyeztetek meg, mi a következő lépés és kinél van. Nem jegyzőkönyv, három sor. Negyven másodperc, és a megállapodás ezután nem csak benned él.",
+   "caption_ig": "Fél órát telefonálsz egy ügyféllel, megegyeztek mindenben, leteszed, és jön a következő. Két hét múlva a kolléga kérdezi, mi is volt a megállapodás, és te már csak nagyjából emlékszel. Ami nem került le írásban, az a cég számára nem történt meg.\n\nEgy szokás, ami segít: minden hosszabb hívás után három sor. Kivel beszéltél, miben egyeztetek meg, mi a következő lépés.\n\n#cégvezető #vezetés #szokás #hatékonyság #vállalkozó #kkv #rend #bwell",
+   "schedule": {
+    "feed": "2026-10-01T08:00:00+02:00",
+    "story": "2026-10-01T12:30:00+02:00"
+   },
+   "alt": "Fél óra telefon, nulla jegyzet."
+  },
+  {
+   "id": "w40-03",
+   "pillar": "P5 Történetek (saját e-bookok)",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #31: cetlik a szélvédőn — a könyv központi képe; nem az idő hiányzik, hanem a kilátás",
+    "EBOOK hatekony_cegvezeto #32: a cetlik leszedése az egyetlen út a felszabaduláshoz (háttér)",
+    "EBOOK hatekony_cegvezeto: egy cetli három sorsa — megoldódik, átadod, kidobod (35. o.)"
+   ],
+   "feed_image": "w40-03_feed1.jpg",
+   "feed_images": [
+    "w40-03_feed1.jpg",
+    "w40-03_feed2.jpg",
+    "w40-03_feed3.jpg",
+    "w40-03_feed4.jpg"
+   ],
+   "story_image": "w40-03_story.jpg",
+   "caption_fb": "Ez a kép az egyik alapítónk saját e-bookjából való.\n\nJön egy ügy, amit most nem intézel el. Felragasztasz egy cetlit magad elé a szélvédőre: ezt ne felejtsem el. Aztán jön a második, a harmadik, a negyedik. Egy elhalasztott hívás, egy félbehagyott ajánlat, egy el nem küldött számla.\n\nÉvek alatt a cetlik beterítik az egész üveget. Pont ott, ahol ki kellene látni: előre nézni, célt kitűzni, eldönteni, merre tovább. Ezért nincs idő a stratégiára. Nem az idő hiányzik, hanem a kilátás.\n\nA megoldás nem az, hogy gyorsabban vezetsz. Hanem az, hogy elkezded leszedni a cetliket, egyesével. Mindegyiknek három sorsa lehet: elintézed, átadod valakinek, vagy kidobod. Bármelyik jó, csak ne maradjon az üvegen.\n\nHány cetli van most a te szélvédődön?",
+   "caption_ig": "Jön egy ügy, amit most nem intézel el, és felragasztasz egy cetlit magad elé a szélvédőre. Aztán a második, a harmadik, a negyedik. Évek alatt beterítik az egész üveget, pont ott, ahol ki kellene látni. Nem az idő hiányzik a stratégiára, hanem a kilátás.\n\nEgy cetlinek három sorsa lehet: elintézed, átadod, vagy kidobod. Ez a kép az egyik alapítónk saját e-bookjából való.\n\n#cégvezető #vállalkozó #hatékonyság #vezetés #kkv #történet #rend #bwell",
+   "schedule": {
+    "feed": "2026-10-03T08:00:00+02:00",
+    "story": "2026-10-03T12:30:00+02:00"
+   },
+   "alt": "Egy cetli a szélvédőn.",
+   "alts": [
+    "Egy cetli a szélvédőn.",
+    "Aztán a második. A harmadik. A negyedik.",
+    "Évek alatt beterítik az egész üveget.",
+    "Nem gyorsabban kell vezetni. Leszedni a cetliket."
+   ]
+  },
+  {
+   "id": "w40-t1",
+   "tiktok": true,
+   "from": "w40-01",
+   "images": [
+    "w40-t1_1.jpg",
+    "w40-t1_2.jpg",
+    "w40-t1_3.jpg",
+    "w40-t1_4.jpg",
+    "w40-t1_5.jpg"
+   ],
+   "caption": "Hány döntést hoztál ma mások helyett? A gyors válasz kényelmes, csak nem tanít semmit, és holnap ugyanaz a kérdés jön vissza. Lapozz végig, a végén egy visszakérdezés vár.\n\n#cégvezető #delegálás #vezetés #hatékonyság #kkv",
+   "schedule": "2026-09-30T18:00:00+02:00",
+   "alt": "Hány döntést hoztál ma mások helyett?"
+  },
+  {
+   "id": "w40-t2",
+   "tiktok": true,
+   "from": "w40-03",
+   "images": [
+    "w40-t2_1.jpg",
+    "w40-t2_2.jpg",
+    "w40-t2_3.jpg",
+    "w40-t2_4.jpg",
+    "w40-t2_5.jpg"
+   ],
+   "caption": "Minden elhalasztott ügy egy cetli a szélvédőn, és évek alatt beterítik az egész üveget. Ez a kép az egyik alapítónk saját e-bookjából való. Lapozz végig, és számold meg, hány cetli van a tiéden.\n\n#cégvezető #vállalkozó #hatékonyság #vezetés #kkv",
+   "schedule": "2026-10-04T18:00:00+02:00",
+   "alt": "Egy cetli a szélvédőn."
+  }
+ ]
+}
