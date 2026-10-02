@@ -1,0 +1,91 @@
+{
+ "batch": "2026-W41",
+ "items": [
+  {
+   "id": "w41-01",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "HUN03 #75: rendetlenség — a tízperces feladatból hetek lesznek, mert előbb mindent keresni kell hozzá",
+    "VALL03 #51: a rend nem esztétika, hanem sebesség (ugyanaz a gondolat)",
+    "HUN02 #24: rend = minden a helyén van és a feladatát látja el",
+    "HUN03 #99: a feladat a visszarakással zárul (háttér)"
+   ],
+   "feed_image": "w41-01_feed.jpg",
+   "story_image": "w41-01_story.jpg",
+   "caption_fb": "„Majd rendet rakok, ha kész a munka.” A legtöbb vezető így gondol a rendre: jó dolog, de ráér.\n\nKözben egy tízperces feladat könnyen elhúzódik napokig. Nem azért, mert nehéz. Azért, mert előbb meg kell találni hozzá a szerződést, a múltkori ajánlatot, a jelszót és azt az egy e-mailt. Amíg keresel, valaki rád ír, és a feladat megint félbe marad.\n\nA rend ezért nem ízlés dolga, hanem sebesség. Annyit jelent, hogy minden a helyén van, és te tudod róla, hogy hol van és mire való. Nem kell hozzá üres asztal, csak az, hogy semmit ne kelljen keresni.\n\nEgy próba mára: amikor befejezel valamit, tedd vissza a helyére, amit elővettél hozzá, mielőtt a következőbe kezdesz. A feladat nem az elintézéssel ér véget, hanem a visszarakással.",
+   "caption_ig": "A rend nem ízlés dolga, hanem sebesség. Rendetlen asztalon a tízperces feladat napokig tart, mert előbb meg kell keresned hozzá a szerződést, a múltkori ajánlatot és azt az egy e-mailt. Rend az, amikor minden a helyén van, és tudod róla, hogy mire való.\n\nEgy próba mára: amikor befejezel valamit, tedd vissza a helyére, amit elővettél hozzá, mielőtt a következőbe kezdesz.\n\n#cégvezető #rend #hatékonyság #időgazdálkodás #vezetés #vállalkozó #kkv #bwell",
+   "schedule": {
+    "feed": "2026-10-06T08:00:00+02:00",
+    "story": "2026-10-06T12:30:00+02:00"
+   },
+   "alt": "A rend sebesség. Rendetlen asztalon a tízperces feladat napokig tart, mert előbb mindent keresni kell hozzá. Rend az, amikor tudod, mi hol van és mire való."
+  },
+  {
+   "id": "w41-02",
+   "pillar": "P1 Idő",
+   "kb": [
+    "PREZI #11: azért nem fér bele semmi a napba, mert a régen esedékes dolgokat tolod magad előtt",
+    "PREZI #12: a kapásból felsorolható teendők hossza maga a diagnózis",
+    "EBOOK ido_tozsde #15: a „majd később” fiók — a félretett feladat is fogyasztja a figyelmet (háttér)"
+   ],
+   "feed_image": "w41-02_feed.jpg",
+   "story_image": "w41-02_story.jpg",
+   "caption_fb": "Reggel hatkor kelsz, este nyolckor még válaszolsz, és a nap végén mégis az az érzésed, hogy semmi nem fért bele. Miért?\n\nA nap ritkán az új munkától telik meg. Attól telik meg, amit már rég meg kellett volna csinálni, és azóta tolod magad előtt. A múlt havi ajánlat, a visszahívás, amit megígértél, a döntés, amit halogatsz. Ezek nincsenek a naptáradban, mégis mindegyik helyet kér a napodból.\n\nVan erre egy gyors próba. Sorold fel kapásból, gondolkodás nélkül, mi vár rád elintézetlenül. Ha tíz dolog azonnal jön, akkor ezt a tízet egész nap magaddal viszed, akkor is, amikor éppen mással foglalkozol.\n\nEzért nem segít, ha még szorosabbra tervezed a napot. Az új dolgoknak nem jobb beosztás kell, hanem hely. Helyet pedig úgy csinálsz, hogy a régiekből lezársz egyet. Ma egyet, a legrégebbit.",
+   "caption_ig": "Miért nem fér bele semmi a napodba? A nap ritkán az új munkától telik meg, hanem attól, amit hetek óta tolsz magad előtt. Ezek nincsenek a naptáradban, mégis mindegyik helyet kér.\n\nEgy gyors próba: sorold fel kapásból, mi vár rád elintézetlenül. Ha tíz dolog azonnal jön, akkor ezt a tízet egész nap magaddal viszed.\n\n#cégvezető #időgazdálkodás #hatékonyság #vezetés #vállalkozó #kkv #idő #bwell",
+   "schedule": {
+    "feed": "2026-10-08T08:00:00+02:00",
+    "story": "2026-10-08T12:30:00+02:00"
+   },
+   "alt": "Miért nem fér bele semmi a napodba?"
+  },
+  {
+   "id": "w41-03",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #24: mit jelent az, hogy „kész” — előre megbeszélt feltétel",
+    "EBOOK hatekony_cegvezeto #20: a kiadott feladat két próbája — úgy értették-e, és megcsinálják-e",
+    "EBOOK hatekony_cegvezeto #25: a leírt kérés mint mérce, vita helyett (háttér)",
+    "EBOOK hatekonysag_elerese_kezikonyv #12: az átadott feladat akkor számít, ha el is készül (háttér)"
+   ],
+   "feed_image": "w41-03_feed.jpg",
+   "story_image": "w41-03_story.jpg",
+   "caption_fb": "„Kész van.” Odamész, megnézed, és nem az, nem úgy, vagy csak félig. Ismerős?\n\nIlyenkor ritkán a kolléga hanyag. Többnyire ő egy másik „készre” gondolt, mint te. Neked a kész azt jelentette, hogy az ajánlat kiment az ügyfélnek, árral és melléklettel. Neki azt, hogy megírta, és ott van a piszkozatok között.\n\nEzt a különbséget utólag csak vitával lehet rendezni, és a vita a te idődből megy. Előre viszont egy perc az egész.\n\nMielőtt kiadsz egy feladatot, három dolgot mondj meg. Mit akarsz látni a végén, egy mondatban. Mikorra kéred, nappal és órával. És hogyan szól, ha megvan, hogy ne neked kelljen rákérdezni.\n\nHa ezt le is írod, később nincs min vitatkozni: előveszed, és összeveted azzal, ami elkészült.",
+   "caption_ig": "„Kész van.” Odamész, megnézed, és nem az, nem úgy, vagy csak félig. Ilyenkor a kolléga többnyire egy másik „készre” gondolt, mint te. Utólag ezt csak vitával lehet rendezni, előre viszont egy perc az egész.\n\nMielőtt kiadsz egy feladatot, mondd meg, mit akarsz látni a végén, mikorra kéred, és hogyan szól, ha megvan.\n\n#cégvezető #delegálás #vezetés #hatékonyság #vállalkozó #kkv #csapat #bwell",
+   "schedule": {
+    "feed": "2026-10-10T08:00:00+02:00",
+    "story": "2026-10-10T12:30:00+02:00"
+   },
+   "alt": "Mielőtt kiadod, mondd meg, mit jelent a kész."
+  },
+  {
+   "id": "w41-t1",
+   "tiktok": true,
+   "from": "w41-01",
+   "images": [
+    "w41-t1_1.jpg",
+    "w41-t1_2.jpg",
+    "w41-t1_3.jpg",
+    "w41-t1_4.jpg",
+    "w41-t1_5.jpg"
+   ],
+   "caption": "Majd rendet rakok, ha kész a munka. Csak éppen rendetlenségben a tízperces feladat is napokig tart, mert előbb mindent keresni kell hozzá. Lapozz végig, a végén egy egyszerű szokás vár.\n\n#cégvezető #rend #hatékonyság #vezetés #kkv",
+   "schedule": "2026-10-07T18:00:00+02:00",
+   "alt": "Majd rendet rakok, ha kész a munka."
+  },
+  {
+   "id": "w41-t2",
+   "tiktok": true,
+   "from": "w41-03",
+   "images": [
+    "w41-t2_1.jpg",
+    "w41-t2_2.jpg",
+    "w41-t2_3.jpg",
+    "w41-t2_4.jpg",
+    "w41-t2_5.jpg"
+   ],
+   "caption": "Kész van, mondja a kolléga, te megnézed, és nem az. Ez ritkán hanyagság, többnyire ő egy másik készre gondolt, mint te. Lapozz végig, a végén három dolog vár, amit érdemes előre megmondani.\n\n#cégvezető #delegálás #vezetés #hatékonyság #kkv",
+   "schedule": "2026-10-11T18:00:00+02:00",
+   "alt": "„Kész van.” Megnézed, és nem az."
+  }
+ ]
+}
