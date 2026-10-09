@@ -1,0 +1,85 @@
+{
+ "batch": "2026-W42",
+ "items": [
+  {
+   "id": "w42-01",
+   "pillar": "P4 Vezetői szokások",
+   "kb": [
+    "HUN03 #98: új ötlet munka közben — jegyzet, nem irányváltás",
+    "VALL03 #73: az új ötlet jegyzetbe megy, a megkezdett feladat folytatódik (ugyanaz a gondolat)"
+   ],
+   "feed_image": "w42-01_feed.jpg",
+   "story_image": "w42-01_story.jpg",
+   "caption_fb": "Ajánlatot írsz. A felénél eszedbe jut, hogy a weboldalon át kellene írni egy mondatot. Megnyitod, átírod, közben látod, hogy a telefonszám is régi. Egy óra múlva három dolog van félig kész, és az ajánlat ugyanott áll, ahol hagytad.\n\nAz ötlettel nincs baj. Lehet, hogy tényleg jó. A baj az, hogy úgy bánsz vele, mintha utasítás lenne: jött, tehát azonnal csinálni kell.\n\nPedig az ötlet nem parancs. Nem vész el attól, hogy nem most valósítod meg. Attól vész el, ha nem írod le.\n\nEgy szokás, ami ezt megoldja: legyen kéznél egy füzet vagy egy jegyzet a telefonodon. Ami munka közben eszedbe jut, azt egy sorban leírod, és folytatod, amiben benne voltál. A listát a nap végén nézed át, és akkor döntöd el, melyikkel mi legyen.\n\nÍgy az ötlet is megmarad, és az is elkészül, amit elkezdtél.",
+   "caption_ig": "Ajánlatot írsz, és a felénél eszedbe jut valami egészen más. Megnyitod, belekezdesz, és egy óra múlva három dolog van félig kész. Az ötlet nem parancs: nem vész el attól, hogy nem most valósítod meg, csak attól, ha nem írod le.\n\nAmi munka közben eszedbe jut, azt írd le egy sorban, és folytasd, amiben benne voltál.\n\n#cégvezető #vezetés #szokás #hatékonyság #vállalkozó #kkv #fókusz #bwell",
+   "schedule": {
+    "feed": "2026-10-13T08:00:00+02:00",
+    "story": "2026-10-13T12:30:00+02:00"
+   },
+   "alt": "Az ötlet nem parancs."
+  },
+  {
+   "id": "w42-02",
+   "pillar": "P1 Idő",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #46: önmegfigyelés néhány napos naplóval, és dedikált idő saját magadnak — ugyanúgy, ahogy másoknak adsz"
+   ],
+   "feed_image": "w42-02_feed.jpg",
+   "story_image": "w42-02_story.jpg",
+   "caption_fb": "Az ügyfélnek adsz időpontot. A kollégának adsz fél órát, ha kér. A könyvelőnek, a beszállítónak, a banknak is. Egyvalaki nem kap időpontot a naptáradban: te magad.\n\nA saját feladataid ezért mindig akkorra maradnak, amikor már mindenki más megkapta, amit kért. Vagyis estére, hétvégére, vagy soha.\n\nMielőtt ezen változtatsz, érdemes látni, mire megy most az időd. Három napig írd fel egy sorban minden váltásnál, hogy mibe kezdtél: levelek, telefon, egyeztetés, kávé. Ne szépítsd, és ne javíts rajta közben. A negyedik napon olvasd át úgy, mintha valaki más jelentése lenne.\n\nLátni fogod, hogy a nap nagy részét mások kérései töltik ki, és azt is, hogy hol van benne hely.\n\nOda írj be egy órát egy saját feladatra. Ezt az órát tartsd meg ugyanúgy, ahogy egy ügyféllel megbeszélt időpontot megtartasz: nem tolod el, és nem adod oda másnak.",
+   "caption_ig": "Az ügyfélnek, a kollégának és a könyvelőnek is adsz időpontot, csak saját magadnak nem. A saját feladataid ezért mindig akkorra maradnak, amikor már mindenki más megkapta, amit kért.\n\nHárom napig írd fel, mire megy az időd, aztán olvasd át úgy, mintha valaki más jelentése lenne. Utána írj be a naptárba egy órát egy saját feladatra, és tartsd meg úgy, mint egy ügyféllel megbeszélt időpontot.\n\n#cégvezető #időgazdálkodás #idő #vezetés #hatékonyság #vállalkozó #kkv #bwell",
+   "schedule": {
+    "feed": "2026-10-15T08:00:00+02:00",
+    "story": "2026-10-15T12:30:00+02:00"
+   },
+   "alt": "Foglalj időt magadnak is."
+  },
+  {
+   "id": "w42-03",
+   "pillar": "P7 CTA",
+   "kb": [
+    "web /teszt: őszinte kitöltés — a teszt azt méri, ahol most tartasz, nem azt, ahogy helyes lenne",
+    "web /teszt: ingyenes, egyperces, az eredmény e-mailben jön, a döntés az olvasóé (háttér)"
+   ],
+   "feed_image": "w42-03_feed.jpg",
+   "story_image": "w42-03_story.jpg",
+   "caption_fb": "Ezen a héten arról írtunk, hogy érdemes három napig felírni, mire megy az időd. Ha ennél gyorsabb képet szeretnél arról, hol tartasz most, van hozzá egy egyperces teszt.\n\nEgy dolgot kér: úgy töltsd ki, ahogy most van, ne úgy, ahogy szerinted helyes lenne. Ha a szép választ jelölöd be, azt méred, milyen szeretnél lenni. Ha az igazat, akkor azt, ahol ma tartasz, és csak ezzel lehet kezdeni valamit.\n\nA teszt ingyenes, az eredményt e-mailben kapod, és te döntöd el, mit kezdesz vele.\n\nKitöltöm a tesztet: https://bwell.hu/teszt",
+   "caption_ig": "Ezen a héten arról írtunk, hogy érdemes felírni, mire megy az időd. Ha gyorsabb képet szeretnél arról, hol tartasz most, erre van egy egyperces, ingyenes teszt. Úgy töltsd ki, ahogy most van, ne úgy, ahogy helyes lenne, mert csak így mutatja meg, hol tartasz. Az eredményt e-mailben kapod.\n\nA teszt itt van: bwell.hu/teszt\n\n#hatékonyságteszt #cégvezető #időgazdálkodás #hatékonyság #vezetés #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-10-17T08:00:00+02:00",
+    "story": "2026-10-17T12:30:00+02:00"
+   },
+   "alt": "Mennyire vagy hatékony valójában?"
+  },
+  {
+   "id": "w42-t1",
+   "tiktok": true,
+   "from": "w42-01",
+   "images": [
+    "w42-t1_1.jpg",
+    "w42-t1_2.jpg",
+    "w42-t1_3.jpg",
+    "w42-t1_4.jpg",
+    "w42-t1_5.jpg"
+   ],
+   "caption": "Ajánlatot írsz, a felénél eszedbe jut valami, és egy óra múlva három dolog van félig kész. Az ötlet nem parancs, elég leírni egy sorban. Lapozz végig, a végén egy egyszerű szokás vár.\n\n#cégvezető #vezetés #szokás #hatékonyság #kkv",
+   "schedule": "2026-10-14T18:00:00+02:00",
+   "alt": "Ajánlatot írsz. A felénél eszedbe jut valami."
+  },
+  {
+   "id": "w42-t2",
+   "tiktok": true,
+   "from": "w42-02",
+   "images": [
+    "w42-t2_1.jpg",
+    "w42-t2_2.jpg",
+    "w42-t2_3.jpg",
+    "w42-t2_4.jpg",
+    "w42-t2_5.jpg"
+   ],
+   "caption": "Az ügyfélnek, a kollégának és a könyvelőnek is adsz időpontot, csak saját magadnak nem. Ezért maradnak a saját feladataid estére vagy hétvégére. Lapozz végig, a végén három lépés vár.\n\n#cégvezető #időgazdálkodás #vezetés #hatékonyság #kkv",
+   "schedule": "2026-10-18T18:00:00+02:00",
+   "alt": "Mindenkinek adsz időpontot. Magadnak nem."
+  }
+ ]
+}
