@@ -1,0 +1,100 @@
+{
+ "batch": "2026-W43",
+ "items": [
+  {
+   "id": "w43-01",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "EBOOK hatekonysag_elerese_kezikonyv #6: az elhallgató gép hasonlata — a nyitott ügyek háttérzaját csak akkor hallod meg, amikor megszűnik",
+    "EBOOK hatekonysag_elerese_kezikonyv #7: a nyitott ügyek összeadódnak — nem egy nagy teher, hanem száz apró; a lista jellemzően száz fölött",
+    "EBOOK hatekonysag_elerese_kezikonyv #4: a legapróbb odaígért dolog is nyitott ügy (háttér)"
+   ],
+   "feed_image": "w43-01_feed.jpg",
+   "story_image": "w43-01_story.jpg",
+   "caption_fb": "Van egy gép az irodában, ami egész nap zúg. Nem hallod, mert hozzászoktál. Aztán valaki kikapcsolja, és egyszerre csend lesz. Ekkor veszed észre, hogy egész nap hallottad.\n\nA nyitott ügyeid ugyanígy működnek. Az ajánlat, amire nem válaszoltál. A számla, amit még nem küldtél ki. A beszélgetés, amit hetek óta tolsz. Egyik sem hangos, és egyik sem tűnik nagy dolognak.\n\nDe mind ott zúg a háttérben, és mind fogyaszt belőled valamit: figyelmet, energiát, időt. Egyenként nem érzed. Összeadva igen, csak nem tudod, honnan jön a fáradtság.\n\nNem egy nagy teher nyom, hanem száz apró. Aki egyszer összeírja a nyitott ügyeit, ritkán marad száz alatt.\n\nEzért érdemes ma lezárni egyet. Nem azért, mert az az egy sokat számít. Azért, mert utána érzed először, mennyit vitt el. Az a csend mutatja meg, mekkora volt a zaj.",
+   "caption_ig": "Van egy gép, ami egész nap zúg az irodában, és nem hallod, mert hozzászoktál. Amikor kikapcsolják, akkor veszed észre, hogy egész nap hallottad. A nyitott ügyeid ugyanígy zúgnak a háttérben, és csak akkor érzed, mennyit vittek el, amikor lezársz egyet.\n\nZárj le ma egyet, és figyeld meg a csendet.\n\n#cégvezető #rend #hatékonyság #vezetés #vállalkozó #kkv #nyitottügyek #bwell",
+   "schedule": {
+    "feed": "2026-10-20T08:00:00+02:00",
+    "story": "2026-10-20T12:30:00+02:00"
+   },
+   "alt": "A zajt akkor hallod, amikor elhallgat."
+  },
+  {
+   "id": "w43-02",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #48: „nem lehet normális embert találni” — aki mást okol, kiadja a kezéből a gyeplőt",
+    "EBOOK hatekony_cegvezeto #49: a konkurencia ugyanabból a tömegből válogat — ha nálad van a hiba, nálad van a megoldás is",
+    "EBOOK hatekony_cegvezeto #50: személyzeti rendszer négy eleme — felvétel, betanítás, ellenőrzés, korrekció (háttér)"
+   ],
+   "feed_image": "w43-02_feed.jpg",
+   "story_image": "w43-02_story.jpg",
+   "caption_fb": "„Nem lehet normális embert találni.” Ezt a mondatot majdnem minden vezetőtől hallani, és van benne igazság: tényleg nehéz.\n\nCsak van vele egy gond. Abban a pillanatban, amikor kimondod, a céged irányítása kikerül a kezedből. Ha az ok a piacon van, akkor te nem tudsz vele mit kezdeni, és marad a várakozás arra, hogy egyszer majd jön valaki jó.\n\nKözben a konkurencia ugyanabból a piacból válogat. Ugyanazokat a hirdetéseket adja fel, és ugyanazok jelentkeznek rá. Ha nála mégis beválnak az emberek, a különbség nem a jelentkezőkben van, hanem abban, ami a belépés után várja őket.\n\nNégy dolgot nézz meg a saját cégedben. Hogyan veszel fel valakit. Hogyan tanítod be. Hogyan ellenőrzöd, hogy el tudja-e végezni a munkáját. És hogyan javítod ki, ha nem úgy megy. Ahol ebből valamelyik hiányzik, ott az új ember magára marad, és három hónap múlva ő is a listára kerül.\n\nEz keserű, de jó hír. Ha a hiba nálad van, a megoldás is nálad van. A piacon nem tudsz változtatni. A saját cégedben igen.",
+   "caption_ig": "„Nem lehet normális embert találni.” Van benne igazság, de amikor kimondod, a céged irányítása kikerül a kezedből. A konkurencia ugyanabból a piacból válogat, és ha nála beválnak az emberek, a különbség nem a jelentkezőkben van, hanem abban, ami a belépés után várja őket.\n\nNézd meg a saját cégedben a négy lépést: felvétel, betanítás, ellenőrzés, javítás. Ahol valamelyik hiányzik, ott az új ember magára marad.\n\n#cégvezető #delegálás #vezetés #munkaerő #csapat #hatékonyság #kkv #bwell",
+   "schedule": {
+    "feed": "2026-10-22T08:00:00+02:00",
+    "story": "2026-10-22T12:30:00+02:00"
+   },
+   "alt": "A konkurencia ugyanabból a piacból válogat. Ha nála beválnak az emberek, a különbség nem a jelentkezőkben van, hanem abban, ami náluk várja az újat: leírt feladat, betanítás, ellenőrzés. Ez a te kezedben van."
+  },
+  {
+   "id": "w43-03",
+   "pillar": "P5 Történetek (saját e-bookok)",
+   "kb": [
+    "EBOOK ido_tozsde #6: a nagy befektetés, amely a „nincs idő felmérni” mondaton bukott el — rossz pozicionálás, elmaradt felmérés, nagy veszteség",
+    "EBOOK ido_tozsde #9: az idő az egyetlen erőforrás, amit nem lehet visszaszerezni (háttér)"
+   ],
+   "feed_image": "w43-03_feed1.jpg",
+   "feed_images": [
+    "w43-03_feed1.jpg",
+    "w43-03_feed2.jpg",
+    "w43-03_feed3.jpg",
+    "w43-03_feed4.jpg"
+   ],
+   "story_image": "w43-03_story.jpg",
+   "caption_fb": "Ez a történet az egyik alapítónk saját e-bookjából való.\n\nJött egy nagy lehetőség: egy befektetés, amiről azt hitte, a céget az élvonalba emeli. Minden energiáját beletette. Egy dolog maradt ki: a felmérés. Hogy kinek lesz ez jó, mennyiért, és egyáltalán kell-e valakinek. Erre nem volt idő, mert futott a cég, és futottak a napok.\n\nA piac nem reagált. Rossz helyre, rossz vevőnek, rossz áron készült az egész. Utólag ment bele a sok idő és a sok pénz, de már nem lehetett megfordítani. Nagy veszteséggel zárult.\n\nA tanulság nem az, hogy ne vágj bele nagy dolgokba. Hanem az, hogy amire az elején nincs időd, azt később sokszorosan fizeted meg. Az előkészítésre nem szánt egy hét hónapokba került.\n\nMelyik döntésedet hozod most meg felmérés nélkül, mert nincs rá idő?",
+   "caption_ig": "Jött egy nagy lehetőség, amiről azt hitte, a céget az élvonalba emeli, és minden energiáját beletette. Egy dolog maradt ki: a felmérés, mert arra nem volt idő. A piac nem reagált, és ami az elején egy hét lett volna, később hónapokba és sok pénzbe került.\n\nEz a történet az egyik alapítónk saját e-bookjából való. Melyik döntésedet hozod most meg felmérés nélkül, mert nincs rá idő?\n\n#cégvezető #vállalkozó #idő #döntés #hatékonyság #kkv #történet #bwell",
+   "schedule": {
+    "feed": "2026-10-24T08:00:00+02:00",
+    "story": "2026-10-24T12:30:00+02:00"
+   },
+   "alt": "Jött a nagy lehetőség.",
+   "alts": [
+    "Jött a nagy lehetőség.",
+    "Felmérés? Arra nem volt idő.",
+    "A piac nem reagált.",
+    "Amire nincs időd, azt később sokszorosan fizeted."
+   ]
+  },
+  {
+   "id": "w43-t1",
+   "tiktok": true,
+   "from": "w43-01",
+   "images": [
+    "w43-t1_1.jpg",
+    "w43-t1_2.jpg",
+    "w43-t1_3.jpg",
+    "w43-t1_4.jpg",
+    "w43-t1_5.jpg"
+   ],
+   "caption": "Van egy gép, ami egész nap zúg, és nem hallod, mert hozzászoktál. A nyitott ügyeid ugyanígy zúgnak a háttérben. Lapozz végig, a végén egy egyszerű próba vár.\n\n#cégvezető #rend #hatékonyság #vezetés #kkv",
+   "schedule": "2026-10-21T18:00:00+02:00",
+   "alt": "Van egy gép, ami egész nap zúg."
+  },
+  {
+   "id": "w43-t2",
+   "tiktok": true,
+   "from": "w43-02",
+   "images": [
+    "w43-t2_1.jpg",
+    "w43-t2_2.jpg",
+    "w43-t2_3.jpg",
+    "w43-t2_4.jpg",
+    "w43-t2_5.jpg"
+   ],
+   "caption": "Nem lehet normális embert találni? A konkurencia ugyanabból a piacból válogat, és ha nála beválnak az emberek, a különbség nem a jelentkezőkben van. Lapozz végig, a végén négy lépés vár.\n\n#cégvezető #vezetés #csapat #munkaerő #kkv",
+   "schedule": "2026-10-25T18:00:00+01:00",
+   "alt": "Nem lehet normális embert találni."
+  }
+ ]
+}
