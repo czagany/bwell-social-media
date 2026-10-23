@@ -1,0 +1,90 @@
+{
+ "batch": "2026-W44",
+ "items": [
+  {
+   "id": "w44-01",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "EBOOK hatekonysag_elerese_kezikonyv #8: négy teendő egy lezáratlan ciklussal — lezárni, kidobni, belekezdeni, delegálni; a halasztás nincs köztük",
+    "EBOOK hatekonysag_elerese_kezikonyv #9–#12: a négy teendő részletei — azonnal lezárni; kidobni, ha nem fontos; belekezdeni, mert az elkezdett nagyobb eséllyel készül el; delegálni és biztosítani, hogy elkészül",
+    "EBOOK hatekonysag_elerese_kezikonyv #10: a kidobás is teljes értékű lezárás (háttér)"
+   ],
+   "feed_image": "w44-01_feed.jpg",
+   "story_image": "w44-01_story.jpg",
+   "caption_fb": "Előveszel egy régi ügyet. Egy ajánlat, amire nem válaszoltál, egy számla, amit még nem küldtél ki, egy ötlet, amit fél éve forgatsz. Ránézel, és visszateszed. Majd később.\n\nPedig egy nyitott üggyel pontosan négy dolgot lehet csinálni, és a visszatevés nincs köztük.\n\nEgy: zárd le most, ha pár perc. Kettő: dobd ki, ha már nem fontos, mert a kidobás ugyanúgy lezárás, mint az elvégzés. Három: kezdj bele, ha nagy, mert ami egyszer megmozdult, az sokkal nagyobb eséllyel készül el, mint ami áll. Négy: add át valakinek, és nézd meg, hogy el is készült, mert amíg nem ellenőrizted, az ügy nálad van.\n\nBármelyiket választod, jó. Egyet viszont választani kell, és minél gyorsabban, annál jobb.\n\nMa egy ügy. Előveszed, és a négyből eldöntöd, melyik lesz.",
+   "caption_ig": "Egy nyitott üggyel pontosan négy dolgot lehet csinálni: lezárod most, kidobod, belekezdesz, vagy átadod és ellenőrzöd. A visszatevés a kupacra nincs a négy között. Bármelyiket választod, jó, de egyet választani kell, és minél gyorsabban, annál jobb.\n\nMa vegyél elő egy régi ügyet, és döntsd el, melyik lesz a négyből.\n\n#cégvezető #rend #hatékonyság #nyitottügyek #vezetés #kkv #tipp #bwell",
+   "schedule": {
+    "feed": "2026-10-27T08:00:00+01:00",
+    "story": "2026-10-27T12:30:00+01:00"
+   },
+   "alt": "Négy válasz egy nyitott ügyre. Ötödik nincs."
+  },
+  {
+   "id": "w44-02",
+   "pillar": "P1 Idő",
+   "kb": [
+    "EBOOK ido_tozsde #11: mindenkinek ugyanannyi órája van egy napban, mégis vannak, akik sokkal többet érnek el; az idő nem bolti árucikk, mégis lehet venni",
+    "EBOOK ido_tozsde #12: aki elvégzi helyetted a feladatot, időt ad neked — a bér nem kiadás, hanem időbeszerzés",
+    "EBOOK ido_tozsde #13: időt venni azzal is lehet, hogy nem csinálod meg más helyett, csak mert neked gyorsabb (háttér)"
+   ],
+   "feed_image": "w44-02_feed.jpg",
+   "story_image": "w44-02_story.jpg",
+   "caption_fb": "Ugyanannyi órád van egy napban, mint a legjobb versenytársadnak. Egyikőtök sem kap többet. Mégis van, aki ugyanannyi idő alatt sokkal többet végez.\n\nAz idő nem bolti árucikk. Nem lehet megvenni, mint egy autót. Mégis lehet venni, csak máshogy.\n\nMinden feladat, amit valaki más végez el helyetted, idő, amit megvettél. A bér, amit kifizetsz, ebből a szemszögből nem kiadás, hanem időbeszerzés.\n\nÉs fordítva is igaz. Minden feladat, amit te csinálsz meg valaki helyett, mert neked gyorsabb, idő, amit eladtál. Olcsón.\n\nMelyik feladatodat végzed még mindig te, pedig megvehetnéd rá az időt?",
+   "caption_ig": "Ugyanannyi órád van, mint a legjobb versenytársadnak, mégis van, aki ugyanannyi idő alatt sokkal többet végez. Az idő nem bolti árucikk, mégis lehet venni: minden feladat, amit valaki más végez el helyetted, idő, amit megvettél. Minden feladat, amit te csinálsz meg más helyett, idő, amit eladtál.\n\nMelyik feladatodat végzed még mindig te, pedig megvehetnéd rá az időt?\n\n#cégvezető #idő #hatékonyság #vezetés #vállalkozó #kkv #delegálás #bwell",
+   "schedule": {
+    "feed": "2026-10-29T08:00:00+01:00",
+    "story": "2026-10-29T12:30:00+01:00"
+   },
+   "alt": "A legjobb versenytársadnak is 24 órája van. Miért végez többet?"
+  },
+  {
+   "id": "w44-03",
+   "pillar": "P4 Vezetői szokások",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #11: a cél mint döntési szűrő — egy kérdés minden ötletre: közelebb visz-e a célhoz; sok cég azon bukott el, hogy a vezető sosem nevezte meg pontosan, mit akar elérni",
+    "EBOOK hatekony_cegvezeto #10: cél nélkül nincs mi felé terelni; cél hiányában senki nem tudja, mit várnak el tőle (háttér)"
+   ],
+   "feed_image": "w44-03_feed.jpg",
+   "story_image": "w44-03_story.jpg",
+   "caption_fb": "Jön egy ötlet. Egy kolléga új szolgáltatást javasol, egy ismerős ajánl egy szoftvert, egy ügyfél kérne valamit, ami eddig nem volt. Mind jónak tűnik. És megint te döntöd el.\n\nPedig van egy kérdés, ami ezek nagy részét eldönti: közelebb visz a célhoz, vagy nem?\n\nHa igen, az irány jó, és már csak az a kérdés, megéri-e. Ha nem, akkor valószínűleg nem kell. Ennyi a szűrő.\n\nCsak ehhez a célnak léteznie kell. Kimondva, leírva, úgy, hogy a kollégáid is ismerjék. Amíg csak a te fejedben van, addig ezt a kérdést csak te tudod feltenni, és minden döntés visszajön hozzád.\n\nSok cég nem a piacon bukott el, hanem azon, hogy a vezető sosem mondta ki pontosan, mit akar elérni.\n\nLe van írva valahol egy mondatban, mit akarsz elérni ebben az évben? Úgy, hogy a kollégáid is tudják?",
+   "caption_ig": "Jön egy ötlet, egy javaslat, egy kérés, és mind jónak tűnik. Van egy kérdés, ami a legtöbbet eldönti: közelebb visz a célhoz, vagy nem? Ehhez viszont a célnak kimondva kell lennie, úgy, hogy a kollégáid is ismerjék, különben ezt a kérdést csak te tudod feltenni, és minden döntés visszajön hozzád.\n\nLe van írva valahol egy mondatban, mit akarsz elérni ebben az évben?\n\n#cégvezető #vezetés #célok #döntés #hatékonyság #kkv #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-10-31T08:00:00+01:00",
+    "story": "2026-10-31T12:30:00+01:00"
+   },
+   "alt": "Közelebb visz a célhoz?"
+  },
+  {
+   "id": "w44-t1",
+   "tiktok": true,
+   "from": "w44-01",
+   "images": [
+    "w44-t1_1.jpg",
+    "w44-t1_2.jpg",
+    "w44-t1_3.jpg",
+    "w44-t1_4.jpg",
+    "w44-t1_5.jpg",
+    "w44-t1_6.jpg"
+   ],
+   "caption": "Egy nyitott üggyel pontosan négy dolgot lehet csinálni, és a visszatevés nincs köztük. Lapozz végig, a végén egy kérdés vár a mai napra.\n\n#cégvezető #rend #hatékonyság #vezetés #kkv",
+   "schedule": "2026-10-28T18:00:00+01:00",
+   "alt": "Előveszed. Ránézel. Visszateszed."
+  },
+  {
+   "id": "w44-t2",
+   "tiktok": true,
+   "from": "w44-02",
+   "images": [
+    "w44-t2_1.jpg",
+    "w44-t2_2.jpg",
+    "w44-t2_3.jpg",
+    "w44-t2_4.jpg",
+    "w44-t2_5.jpg",
+    "w44-t2_6.jpg"
+   ],
+   "caption": "Ugyanannyi órád van, mint a legjobb versenytársadnak, mégis van, aki többet végez belőle. Az időt nem lehet megvenni, mint egy autót, mégis lehet venni. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #idő #hatékonyság #vezetés #kkv",
+   "schedule": "2026-11-01T18:00:00+01:00",
+   "alt": "Neki is 24 órája van."
+  }
+ ]
+}
