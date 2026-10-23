@@ -17,7 +17,13 @@
     "feed": "2026-10-27T08:00:00+01:00",
     "story": "2026-10-27T12:30:00+01:00"
    },
-   "alt": "Négy válasz egy nyitott ügyre. Ötödik nincs."
+   "alt": "Négy válasz egy nyitott ügyre. Ötödik nincs.",
+   "buffer_ids": {
+    "fb_feed": "6adb3a05efac72e60fc3aee0",
+    "fb_story": "6adb3a0640662d30d7bcef66",
+    "ig_feed": "6adb3a06da167f50268b0965",
+    "ig_story": "6adb3a06da167f50268b09a3"
+   }
   },
   {
    "id": "w44-02",
@@ -35,7 +41,13 @@
     "feed": "2026-10-29T08:00:00+01:00",
     "story": "2026-10-29T12:30:00+01:00"
    },
-   "alt": "A legjobb versenytársadnak is 24 órája van. Miért végez többet?"
+   "alt": "A legjobb versenytársadnak is 24 órája van. Miért végez többet?",
+   "buffer_ids": {
+    "fb_feed": "6adb3a2350cce2289e0dba8b",
+    "fb_story": "6adb3a2450cce2289e0dbac0",
+    "ig_feed": "6adb3a2550cce2289e0dbaea",
+    "ig_story": "6adb3a25da167f50268b0d25"
+   }
   },
   {
    "id": "w44-03",
@@ -52,7 +64,13 @@
     "feed": "2026-10-31T08:00:00+01:00",
     "story": "2026-10-31T12:30:00+01:00"
    },
-   "alt": "Közelebb visz a célhoz?"
+   "alt": "Közelebb visz a célhoz?",
+   "buffer_ids": {
+    "fb_feed": "6adb3a42da167f50268b10b1",
+    "fb_story": "6adb3a4350cce2289e0dc281",
+    "ig_feed": "6adb3a44efac72e60fc3b85c",
+    "ig_story": "6adb3a44fe8ae6dfd4558ecc"
+   }
   },
   {
    "id": "w44-t1",
@@ -68,7 +86,10 @@
    ],
    "caption": "Egy nyitott üggyel pontosan négy dolgot lehet csinálni, és a visszatevés nincs köztük. Lapozz végig, a végén egy kérdés vár a mai napra.\n\n#cégvezető #rend #hatékonyság #vezetés #kkv",
    "schedule": "2026-10-28T18:00:00+01:00",
-   "alt": "Előveszed. Ránézel. Visszateszed."
+   "alt": "Előveszed. Ránézel. Visszateszed.",
+   "buffer_ids": {
+    "tiktok": "6adb3a23fe8ae6dfd4558aba"
+   }
   },
   {
    "id": "w44-t2",
@@ -84,7 +105,10 @@
    ],
    "caption": "Ugyanannyi órád van, mint a legjobb versenytársadnak, mégis van, aki többet végez belőle. Az időt nem lehet megvenni, mint egy autót, mégis lehet venni. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #idő #hatékonyság #vezetés #kkv",
    "schedule": "2026-11-01T18:00:00+01:00",
-   "alt": "Neki is 24 órája van."
+   "alt": "Neki is 24 órája van.",
+   "buffer_ids": {
+    "tiktok": "6adb3a45e4169c55aac04506"
+   }
   }
  ]
 }
