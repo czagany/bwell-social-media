@@ -1,0 +1,91 @@
+{
+ "batch": "2026-W45",
+ "items": [
+  {
+   "id": "w45-01",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #27: végigvinni — a kiadott munka eleinte háromszoros munkának tűnik a sok javítás miatt, hosszú távon mégis ez az egyetlen megtérülő út",
+    "EBOOK hatekony_cegvezeto #26: a korrekció szétválasztja az embereket — aki haladni akar, elfogadja; a végén rutin és büszkeség",
+    "EBOOK hatekony_cegvezeto #42: a „nincs időm” mögött félkésznek elfogadott munka vagy nem önálló emberek állnak (háttér)"
+   ],
+   "feed_image": "w45-01_feed.jpg",
+   "story_image": "w45-01_story.jpg",
+   "caption_fb": "Kiadsz egy feladatot, és azt várod, hogy aznap már könnyebb legyen. Aztán jön vissza félkészen. Elmondod még egyszer. Jön vissza megint, máshogy. A harmadik körnél úgy érzed, gyorsabb lett volna megcsinálni.\n\nEzen a ponton a legtöbb vezető visszaveszi. És ezzel el is dől, hogy ez a feladat örökre nála marad.\n\nPedig az eleje mindig így néz ki. A javítás nem azt jelenti, hogy rossz az ember vagy rossz a feladat. Azt jelenti, hogy még nem ugyanazt értitek azon, hogy kész. Minden körrel közelebb kerültök, és egy idő után rutinból csinálja, pontosan úgy, ahogy kérted.\n\nKözben történik még valami. A javítás szétválasztja az embereket: aki haladni akar, elfogadja, aki nem, az minden javításra húzza a száját. Ez is kiderül, és ez is hasznos.\n\nAz elején háromszoros munkának tűnik. Ez az ára annak, hogy utána tényleg ne nálad legyen.\n\nMelyik feladatot vetted vissza a héten, mert gyorsabb volt megcsinálni?",
+   "caption_ig": "Kiadsz egy feladatot, és azt várod, hogy aznap már könnyebb legyen. Ehelyett jön vissza félkészen, javíttatod, és a harmadik körnél úgy érzed, gyorsabb lett volna megcsinálni. Pedig az eleje mindig így néz ki: a javítás nem azt jelenti, hogy rossz az ember, hanem azt, hogy még nem ugyanazt értitek azon, hogy kész. Aki itt visszaveszi a feladatot, az magánál is tartja, aki végigviszi, annak szabadul fel az idő.\n\nMelyik feladatot vetted vissza a héten, mert gyorsabb volt megcsinálni?\n\n#cégvezető #delegálás #vezetés #hatékonyság #kkv #vállalkozó #kontroll #bwell",
+   "schedule": {
+    "feed": "2026-11-03T08:00:00+01:00",
+    "story": "2026-11-03T12:30:00+01:00"
+   },
+   "alt": "Az elején fordítva van: többször vissza kell nézni és javíttatni, és ez háromszoros munkának tűnik. Aki ennél visszaveszi a feladatot, az magánál is tartja. Aki végigviszi, annak szabadul fel az idő."
+  },
+  {
+   "id": "w45-02",
+   "pillar": "P1 Idő",
+   "kb": [
+    "EBOOK hatekonysag_elerese_kezikonyv #1: az időgazdálkodás nem beosztás, hanem lezárás",
+    "PREZI #10: az időgazdálkodás mítosza — nincs olyan, aki megtanulta jól beosztani az idejét",
+    "PREZI #13: a több idő befejezésből jön — lezárni úgy, hogy le is maradjon zárva (háttér)"
+   ],
+   "feed_image": "w45-02_feed.jpg",
+   "story_image": "w45-02_story.jpg",
+   "caption_fb": "Új naptár, új rendszer, új időblokkok. Egy hétig működik, aztán ugyanott vagy, ahol előtte. Ismerős?\n\nNem azért, mert rosszul osztottad be. Azért, mert a beosztás nem változtat azon, mennyi dolog van nyitva. Ugyanazt a tíz félbehagyott ügyet lehet szebben is elrendezni a naptárban, attól még mind a tíz ott marad, és mind visz valamit a napodból.\n\nAz időgazdálkodás ezért nem beosztás, hanem lezárás. A több idő nem onnan jön, hogy ügyesebben pakolod a feladatokat, hanem onnan, hogy kevesebb van belőlük, mert befejezted őket. Úgy, hogy be is maradjanak fejezve, és ne nyíljanak újra két hét múlva.\n\nHa ma csak egy dolgot csinálsz a naptáraddal, ne átrendezd. Zárj le belőle egyet.",
+   "caption_ig": "Új naptár, új időblokkok, egy hétig működik, aztán ugyanott vagy, ahol előtte. Nem azért, mert rosszul osztottad be, hanem mert a beosztás nem változtat azon, mennyi dolog van nyitva. Az időgazdálkodás nem beosztás, hanem lezárás: a több idő onnan jön, hogy kevesebb a félbehagyott dolog, és ami kész, az kész is marad.\n\nHa ma csak egy dolgot csinálsz a naptáraddal, ne átrendezd, hanem zárj le belőle egyet.\n\n#cégvezető #idő #időgazdálkodás #hatékonyság #vezetés #kkv #rend #bwell",
+   "schedule": {
+    "feed": "2026-11-05T08:00:00+01:00",
+    "story": "2026-11-05T12:30:00+01:00"
+   },
+   "alt": "Nem az idődet kell beosztani."
+  },
+  {
+   "id": "w45-03",
+   "pillar": "P7 CTA",
+   "kb": [
+    "web /konzultacio CTA: ingyenes 30 perces konzultáció, rövid űrlap, 72 órán belül visszahívás időpontegyeztetésre",
+    "EBOOK hatekony_cegvezeto #28: innentől egyedi a történet — ezért kell személyes konzultáció",
+    "EBOOK hatekony_cegvezeto #42: a „nincs időm” mögött félkésznek elfogadott munka vagy nem önálló emberek állnak (háttér)"
+   ],
+   "feed_image": "w45-03_feed.jpg",
+   "story_image": "w45-03_story.jpg",
+   "caption_fb": "A héten arról írtunk, hogy a kiadott munka az elején háromszoros munkának tűnik, és hogy a naptár átrendezése nem ad több időt. Ezek az általános részek. Innentől minden cég története egyedi: más az ember, más a feladat, máshol akad el.\n\nHa nálad is az a kép, hogy kiadod a munkát, és mégis nálad köt ki, erre van egy ingyenes, 30 perces konzultáció. Kitöltesz egy rövid űrlapot, és 72 órán belül jelentkezünk egy időpontért. Ennyi.\n\nKérek egy időpontot: https://bwell.hu/konzultacio",
+   "caption_ig": "A héten arról írtunk, hogy a kiadott munka az elején háromszoros munkának tűnik, és hogy a naptár átrendezése nem ad több időt. Innentől minden cég története egyedi. Ha nálad is az a kép, hogy kiadod a munkát, és mégis nálad köt ki, erre van egy ingyenes, 30 perces konzultáció: kitöltesz egy rövid űrlapot, és 72 órán belül jelentkezünk egy időpontért.\n\nAz űrlap itt van: bwell.hu/konzultacio\n\n#konzultáció #cégvezető #delegálás #hatékonyság #vezetés #vállalkozó #kkv #bwell",
+   "schedule": {
+    "feed": "2026-11-07T08:00:00+01:00",
+    "story": "2026-11-07T12:30:00+01:00"
+   },
+   "alt": "Kiadod a munkát, és mégis nálad köt ki?"
+  },
+  {
+   "id": "w45-t1",
+   "tiktok": true,
+   "from": "w45-01",
+   "images": [
+    "w45-t1_1.jpg",
+    "w45-t1_2.jpg",
+    "w45-t1_3.jpg",
+    "w45-t1_4.jpg",
+    "w45-t1_5.jpg",
+    "w45-t1_6.jpg"
+   ],
+   "caption": "Kiadod a feladatot, visszajön félkészen, és a harmadik körnél visszaveszed. Ezen a ponton dől el, hogy nálad marad-e örökre. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #delegálás #vezetés #hatékonyság #kkv",
+   "schedule": "2026-11-04T18:00:00+01:00",
+   "alt": "Kiadtad. Visszajött."
+  },
+  {
+   "id": "w45-t2",
+   "tiktok": true,
+   "from": "w45-02",
+   "images": [
+    "w45-t2_1.jpg",
+    "w45-t2_2.jpg",
+    "w45-t2_3.jpg",
+    "w45-t2_4.jpg",
+    "w45-t2_5.jpg",
+    "w45-t2_6.jpg"
+   ],
+   "caption": "Új naptár, új időblokkok, egy hétig működik, aztán ugyanott vagy, ahol előtte. Az időgazdálkodás nem beosztás, hanem lezárás. Lapozz végig, a végén egy feladat vár a mai napra.\n\n#cégvezető #idő #időgazdálkodás #hatékonyság #kkv",
+   "schedule": "2026-11-08T18:00:00+01:00",
+   "alt": "Új naptár. Új időblokkok."
+  }
+ ]
+}
