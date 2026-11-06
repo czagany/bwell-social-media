@@ -1,0 +1,101 @@
+{
+ "batch": "2026-W46",
+ "items": [
+  {
+   "id": "w46-01",
+   "pillar": "P2 Lezáratlan ciklusok és rend",
+   "kb": [
+    "EBOOK hatekonysag_elerese_kezikonyv #5: hol keressen — a nyitott ügyek lelőhelyei (fiók, asztal, táska, autó, pénztárca, telefon, postafiók, fej)",
+    "EBOOK hatekonysag_elerese_kezikonyv #4: a lezáratlan ciklus definíciója — a megnézett és otthagyott e-mail, a kimondott ígéret is az",
+    "EBOOK hatekonysag_elerese_kezikonyv #7: felkutatás után tipikusan százas nagyságrend (háttér)"
+   ],
+   "feed_image": "w46-01_feed.jpg",
+   "story_image": "w46-01_story.jpg",
+   "caption_fb": "Nyitott ügy nem csak a félbehagyott projekt. Az is, amit megnéztél, és azt mondtad rá: majd. Az is, amit megígértél valakinek, és még nem tetted meg. Amíg nincs kész, viszi a figyelmedet, akkor is, ha nem gondolsz rá.\n\nEzért nem elég a listádat átnézni. Az ügyek nagy része nincs listán. Négy helyen érdemes körülnézni.\n\nEgy: az asztalod és a fiókod. A bontatlan levél, a számla, amit még nem küldtél ki. Kettő: az autó és a táska. A könyv, amit vissza kellett volna vinni, a papír, amit be kellett volna adni. Három: a postafiókod. Az e-mail, amit megnyitottál, aztán otthagytál. Négy: a fejed. Az ötlet, amit fél éve forgatsz, az ígéret, amit kimondtál.\n\nAki ezt egyszer végigcsinálja, általában nem tízet talál. Inkább százat. Nem azért, mert rendetlen, hanem mert ezek nem látszanak, csak elvesznek a napjából.\n\nMa egy hely. Nézd át, írd össze, ami előkerül. A következő lépés már egyszerűbb: a négy válasz közül választani.",
+   "caption_ig": "Nyitott ügy nem csak a félbehagyott projekt, hanem az is, amit megnéztél, és azt mondtad rá: majd. Az ügyek nagy része nincs listán, ezért négy helyen érdemes körülnézni: az asztalodon és a fiókodban, az autóban és a táskában, a postafiókodban, és a fejedben, ahol az ígéretek várnak. Aki ezt egyszer végigcsinálja, ritkán talál tízet, inkább százat.\n\nMa egy helyet nézz át, és írd össze, ami előkerül.\n\n#cégvezető #rend #nyitottügyek #hatékonyság #vezetés #kkv #tipp #bwell",
+   "schedule": {
+    "feed": "2026-11-10T08:00:00+01:00",
+    "story": "2026-11-10T12:30:00+01:00"
+   },
+   "alt": "Négy hely, ahol a nyitott ügyeid lapulnak."
+  },
+  {
+   "id": "w46-02",
+   "pillar": "P5 Történetek (saját e-bookok)",
+   "kb": [
+    "EBOOK ido_tozsde #4: a fordulópont — boldogtalanság a siker csúcsán, a fiú kérdése, az elfelejtett edzés",
+    "EBOOK ido_tozsde #25: a lezáratlan dolgok miatt felejtünk el dolgokat, például elmenni a gyerekért (háttér)",
+    "EBOOK ido_tozsde #23: a befejezetlen dolgok gátolják a jelenben élést (háttér)"
+   ],
+   "feed_image": "w46-02_feed1.jpg",
+   "feed_images": [
+    "w46-02_feed1.jpg",
+    "w46-02_feed2.jpg",
+    "w46-02_feed3.jpg",
+    "w46-02_feed4.jpg"
+   ],
+   "story_image": "w46-02_story.jpg",
+   "caption_fb": "Ez a történet az egyik alapítónk saját e-bookjából való.\n\nÉvekig hajtott, és összejött minden, amiért hajtott. Ült a hajóján egy kikötőben, nézte a sétálókat, és azon gondolkodott, miért nem boldog. A fia nemrég megkérdezte, miért nincs otthon annyit, mint régen. Nem volt rá jó válasza, csak egy terv: még néhány év, aztán jön a nyugodt élet.\n\nAztán egy este az órára nézett. Az edzés már véget ért. A fia a sötétben, az út szélén várta, hátizsákkal, az autókat nézve. Elfelejtette.\n\nEz volt az a pillanat, amikor kiderült, hogy a terv nem működik. Nem a pénz volt kevés, és nem a siker. Az idő, amiből mindig „majd” lesz több, és sosem lesz.\n\nHa vezető vagy, ez a történet valószínűleg ismerős valahonnan. Mikor néztél utoljára úgy az órára, hogy valaki már régen várt rád?",
+   "caption_ig": "Évekig hajtott, és összejött minden, amiért hajtott, mégis ott ült a hajóján, és nem volt boldog. A fia megkérdezte, miért nincs otthon annyit, mint régen, és nem volt rá jó válasza, csak egy terv: még néhány év, aztán jön a nyugodt élet. Egy este aztán az órára nézett: az edzés már véget ért, a fia a sötétben, az út szélén várta. Elfelejtette.\n\nEz a történet az egyik alapítónk saját e-bookjából való. Mikor néztél utoljára úgy az órára, hogy valaki már régen várt rád?\n\n#cégvezető #vállalkozó #idő #család #hatékonyság #kkv #történet #bwell",
+   "schedule": {
+    "feed": "2026-11-12T08:00:00+01:00",
+    "story": "2026-11-12T12:30:00+01:00"
+   },
+   "alt": "Ült a hajóján, és nem volt boldog.",
+   "alts": [
+    "Ült a hajóján, és nem volt boldog.",
+    "A fia megkérdezte, miért nincs otthon annyit, mint régen.",
+    "Egy este az órára nézett.",
+    "A siker megvolt. Az idő nem."
+   ]
+  },
+  {
+   "id": "w46-03",
+   "pillar": "P6 Ügyfélhangok",
+   "kb": [
+    "web: ügyfélvélemény D.N., Rentes Srácok Kft (bwell.hu kezdőoldal, szó szerinti részlet)"
+   ],
+   "feed_image": "w46-03_feed.jpg",
+   "story_image": "w46-03_story.jpg",
+   "caption_fb": "Ezt egy ügyfelünk írta a tréning után. Nem a bevételről szól, és nem a munkaórákról. Arról, hogy a családjával úgy tudott időt tölteni, hogy közben nem a munkán járt az esze.\n\nUgyanebben a véleményben leírta, honnan indult: csúszások, hátralékok, és az érzés, hogy nem ő irányítja a napját, hanem a környezete őt. Ahhoz képest a vége: tiszta fej, tiszta környezet, nincs halogatás.\n\nAmi a két állapot között történt, nem több szabadnap. Az, hogy ami nyitva volt, lezárult, és a fejének nem volt mire visszajárnia este.\n\nA nyitott ügyek nem maradnak az irodában. Ha nem zárod le őket, veled jönnek vacsorázni is.\n\nHa ma csak egy dolgot csinálsz: zárj le valamit, ami hetek óta veled jár haza.",
+   "caption_ig": "Ezt egy ügyfelünk írta a tréning után, és nem a bevételről szól, hanem arról, hogy a családjával úgy tudott időt tölteni, hogy közben nem a munkán járt az esze. Ugyanebben a véleményben leírta, honnan indult: csúszások, hátralékok, és az érzés, hogy a környezete irányítja őt. A vége: tiszta fej, nincs halogatás, és egy este, amikor a nyitott ügyek nem jöttek vele haza.\n\nHa ma csak egy dolgot csinálsz: zárj le valamit, ami hetek óta veled jár haza.\n\n#ügyfélvélemény #cégvezető #család #idő #hatékonyság #vezetés #kkv #bwell",
+   "schedule": {
+    "feed": "2026-11-14T08:00:00+01:00",
+    "story": "2026-11-14T12:30:00+01:00"
+   },
+   "alt": "Hosszú idő óta nem a munkára gondolva tudtam a családommal időt tölteni."
+  },
+  {
+   "id": "w46-t1",
+   "tiktok": true,
+   "from": "w46-01",
+   "images": [
+    "w46-t1_1.jpg",
+    "w46-t1_2.jpg",
+    "w46-t1_3.jpg",
+    "w46-t1_4.jpg",
+    "w46-t1_5.jpg",
+    "w46-t1_6.jpg"
+   ],
+   "caption": "A nyitott ügyeid nagy része nincs listán. Négy hely, ahol lapulnak: asztal és fiók, autó és táska, postafiók, és a fejed. Lapozz végig, a végén egy feladat vár a mai napra.\n\n#cégvezető #rend #nyitottügyek #hatékonyság #kkv",
+   "schedule": "2026-11-11T18:00:00+01:00",
+   "alt": "A listádon nincs rajta a fele."
+  },
+  {
+   "id": "w46-t2",
+   "tiktok": true,
+   "from": "w46-02",
+   "images": [
+    "w46-t2_1.jpg",
+    "w46-t2_2.jpg",
+    "w46-t2_3.jpg",
+    "w46-t2_4.jpg",
+    "w46-t2_5.jpg",
+    "w46-t2_6.jpg"
+   ],
+   "caption": "Évekig hajtott, összejött minden, mégis ott ült a hajóján, és nem volt boldog. Aztán egy este az órára nézett, és az edzés már véget ért. Ez a történet az egyik alapítónk saját e-bookjából való. Lapozz végig.\n\n#cégvezető #vállalkozó #idő #család #kkv",
+   "schedule": "2026-11-15T18:00:00+01:00",
+   "alt": "Ült a hajóján, és nem volt boldog."
+  }
+ ]
+}
