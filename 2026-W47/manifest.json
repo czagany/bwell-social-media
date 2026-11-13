@@ -1,0 +1,92 @@
+{
+ "batch": "2026-W47",
+ "items": [
+  {
+   "id": "w47-01",
+   "pillar": "P4 Vezetői szokások",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #45: a beérkező kérés mindig előrébb sorolódik — ami kívülről jön, arra a fej azonnal reagálni akar, ezért nyer a saját feladattal szemben; a vezető nem érzi magát a napja urának",
+    "HUN03 #70: reggel tudod, mit fogsz elvégezni, vagy a bejövő dönti el — a következő nap listája (háttér)",
+    "HUN03 #79: egy vonal a feladat és közted — a megszakítás a figyelem szétszórása (háttér)"
+   ],
+   "feed_image": "w47-01_feed.jpg",
+   "story_image": "w47-01_story.jpg",
+   "caption_fb": "Reggel még tudtad, mi a legfontosabb dolgod. Aztán csörgött a telefon, jött három e-mail, és valaki benyitott, hogy „főnök, csak egy perc”. Este kiderült, hogy mindenkinek elintézted a dolgát. Csak a sajátodat nem.\n\nNem azért, mert az ő kérésük fontosabb volt. Azért, mert megérkezett. Ami kívülről jön, azt a fejed kérésnek hallja, és azonnal reagálni akar rá. A saját feladatod nem szól, nem kopog, nem sürget. Így mindig az marad a végére.\n\nEnnek az a vége, hogy a cégedben mindenki halad a maga ügyével, csak te nem a tiéddel. És az az érzésed, hogy nem te vezeted a napodat, hanem a napod téged.\n\nEz nem jellemhiba, hanem egy működés, amit észre lehet venni. Az első lépés csak ennyi: a következő „csak egy perc”-nél figyeld meg, mit tettél le a kezedből miatta.\n\nMi az a feladatod, ami ma is azért marad el, mert senki nem kéri rajtad számon?",
+   "caption_ig": "Reggel még tudtad, mi a legfontosabb dolgod, estére mégis mindenki másét intézted el, csak a sajátodat nem. Nem azért, mert az ő kérésük fontosabb volt, hanem azért, mert megérkezett: ami kívülről jön, arra a fejed azonnal reagálni akar, a saját feladatod viszont nem szól és nem sürget. Így mindig az marad a végére, és úgy érzed, nem te vezeted a napodat, hanem a napod téged.\n\nMi az a feladatod, ami ma is azért marad el, mert senki nem kéri rajtad számon?\n\n#cégvezető #vezetés #vezetőiszokások #fókusz #hatékonyság #kkv #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-11-17T08:00:00+01:00",
+    "story": "2026-11-17T12:30:00+01:00"
+   },
+   "alt": "Miért nyer mindig a beérkező kérés?"
+  },
+  {
+   "id": "w47-02",
+   "pillar": "P3 Kontroll és delegálás",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #21: írásban, mindig — a jó és a nem jó vezető egyetlen különbsége a visszakövethető, ellenőrizhető, újra kiadható utasítás",
+    "EBOOK hatekony_cegvezeto #23: a kifogások — nincs rá idő, vezetés közben nem megy, úgyis megjegyzik — és a válasz mindre ugyanaz",
+    "EBOOK hatekony_cegvezeto #22: a forma mindegy (e-mail, sms, cetli); apró kérést nem kell leírni, a napi vagy heti feladatot igen; a lista kiváltja a „főnök, most mi legyen?” hívásokat (háttér)",
+    "HUN03 #66: ami nincs leírva, az nem létezik — a másik fejét ne használd tárolónak (háttér)"
+   ],
+   "feed_image": "w47-02_feed.jpg",
+   "story_image": "w47-02_story.jpg",
+   "caption_fb": "Kiadod a feladatot a folyosón, két mondatban. Gyors, kényelmes, és azt hiszed, ezzel megspóroltál öt percet. Aztán délután kiderül, hogy mást csináltak, vagy a felét. Elmondod újra. Másnap megint. És jön a mondat: „nekem ezt senki nem mondta”.\n\nA szóbeli feladatot gyorsabb kiadni, de háromszor kell elmondani, és a végén nincs mihez nyúlni. Nem lehet megnézni, mit kértél. Csak vitatkozni lehet róla, hogy ki mit mondott.\n\nAmi le van írva, az visszanézhető, ellenőrizhető, és újra kiadható, ha nem azt csinálták. És van még egy haszna: ha az ember reggel tudja, mi a dolga és milyen sorrendben, nem hív fel kétóránként, hogy „főnök, most mi legyen?”.\n\nA forma teljesen mindegy. E-mail, sms, egy cetli a pulton. Nem a forma számít, hanem hogy legyen hova visszanézni. Apró kérésekre nem kell, a napi vagy heti feladatra igen.\n\nA kifogásokat ismerjük: nincs rá idő, vezetés közben nem megy, úgyis megjegyzik. Mindegyikre ugyanaz a válasz. Írásban.\n\nMelyik feladatot mondtad el a héten harmadszor?",
+   "caption_ig": "Kiadod a feladatot a folyosón, két mondatban, aztán délután kiderül, hogy mást csináltak, és jön a mondat: „nekem ezt senki nem mondta”. A szóbeli feladatot gyorsabb kiadni, de háromszor kell elmondani, és a végén csak vitatkozni lehet róla, hogy ki mit mondott. Ami le van írva, az visszanézhető, ellenőrizhető és újra kiadható, a forma pedig mindegy: e-mail, sms vagy egy cetli a pulton.\n\nMelyik feladatot mondtad el a héten harmadszor?\n\n#cégvezető #delegálás #vezetés #kontroll #hatékonyság #kkv #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-11-19T08:00:00+01:00",
+    "story": "2026-11-19T12:30:00+01:00"
+   },
+   "alt": "Szóban gyorsabb kiadni, és háromszor kell elmondani. Ami le van írva, azt vissza lehet nézni, ellenőrizni, és újra kiadni, ha nem azt csinálták. E-mail, sms, cetli: a forma mindegy. Amit nem írtál le, azt nem számonkérni lehet, csak vitatni."
+  },
+  {
+   "id": "w47-03",
+   "pillar": "P1 Idő",
+   "kb": [
+    "EBOOK hatekony_cegvezeto #1: a valódi luxus ma a szabad idő, nem a tárgyak — arra fordítani az időt, amire te akarod, kéretlen feladatok nélkül; a pénzügyi cél a legtöbb vezetőnek megvan, az idő fölötti rendelkezés nem",
+    "EBOOK hatekony_cegvezeto #2: a hármas végcél — pénz, idő és a magad választotta társaság (háttér)",
+    "EBOOK ido_tozsde #9: az idő az egyetlen erőforrás, amit nem lehet visszaszerezni — pénzt lehet keresni, kapcsolatot újraépíteni (háttér)"
+   ],
+   "feed_image": "w47-03_feed.jpg",
+   "story_image": "w47-03_story.jpg",
+   "caption_fb": "Új autó, évi három nyaralás, jó óra. A legtöbb cégvezetőnek, aki már tíz éve csinálja, ez megvan, vagy meglehetne. És mégis előjön a kérdés egy csendes pillanatban: akkor ez most miért nem jó?\n\nMert a luxus ma nem egy tárgy. Az a luxus, hogy egy délutánról te döntöd el, mire megy. Nem a telefon, nem a beérkező e-mailek, nem a kolléga, aki „csak egy kérdést” hoz. Te.\n\nPénzt lehet keresni, egy elrontott kapcsolatot újra fel lehet építeni. Az elmúlt délutánt nem kapod vissza. Ezért furcsa, hogy a legtöbb cégben a pénz célja ki van mondva, az idő célja nem.\n\nHa megnézed, mire hajtasz, a pénz valószínűleg már megvan. A következő cél az idő. Nem több szabadság, hanem olyan hétköznap, amit nem más tölt meg helyetted.\n\nMikor volt utoljára egy délutánod, amiről te döntötted el, mire megy?",
+   "caption_ig": "Új autó, jó óra, évi három nyaralás: a legtöbb cégvezetőnek tíz év után ez megvan, vagy meglehetne, és mégis előjön a kérdés, hogy akkor ez most miért nem jó. A luxus ma nem egy tárgy, hanem egy délután, amiről te döntöd el, mire megy, nem a telefon és nem a beérkező e-mailek. A pénz célja a legtöbb cégben ki van mondva, az idő célja nem, pedig a kettő közül csak az egyiket nem lehet visszaszerezni.\n\nMikor volt utoljára egy délutánod, amiről te döntötted el, mire megy?\n\n#cégvezető #idő #szabadidő #hatékonyság #vezetés #kkv #vállalkozó #bwell",
+   "schedule": {
+    "feed": "2026-11-21T08:00:00+01:00",
+    "story": "2026-11-21T12:30:00+01:00"
+   },
+   "alt": "A luxus ma nem egy autó."
+  },
+  {
+   "id": "w47-t1",
+   "tiktok": true,
+   "from": "w47-01",
+   "images": [
+    "w47-t1_1.jpg",
+    "w47-t1_2.jpg",
+    "w47-t1_3.jpg",
+    "w47-t1_4.jpg",
+    "w47-t1_5.jpg",
+    "w47-t1_6.jpg"
+   ],
+   "caption": "Reggel tudtad, mi a legfontosabb dolgod, estére mégis mindenki másét intézted el. Nem azért, mert az övék fontosabb volt, hanem mert megérkezett. Lapozz végig, a végén egy kérdés vár.\n\n#cégvezető #vezetés #fókusz #hatékonyság #kkv",
+   "schedule": "2026-11-18T18:00:00+01:00",
+   "alt": "Reggel tudtad, mi a legfontosabb."
+  },
+  {
+   "id": "w47-t2",
+   "tiktok": true,
+   "from": "w47-03",
+   "images": [
+    "w47-t2_1.jpg",
+    "w47-t2_2.jpg",
+    "w47-t2_3.jpg",
+    "w47-t2_4.jpg",
+    "w47-t2_5.jpg",
+    "w47-t2_6.jpg"
+   ],
+   "caption": "Új autó, jó óra, nyaralás: a legtöbb cégvezetőnek ez tíz év után megvan, és mégis előjön a kérdés, hogy akkor ez miért nem jó. A luxus ma nem egy tárgy, hanem egy délután, amiről te döntesz. Lapozz végig.\n\n#cégvezető #idő #szabadidő #vállalkozó #kkv",
+   "schedule": "2026-11-22T18:00:00+01:00",
+   "alt": "A luxus ma nem egy autó."
+  }
+ ]
+}
